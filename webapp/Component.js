@@ -3,5 +3,6 @@ sap.ui.define(["sap/suite/ui/generic/template/lib/AppComponent"], function (AppC
 		metadata: {
 			"manifest": "json"
 		}
+		//
 	});
 });
